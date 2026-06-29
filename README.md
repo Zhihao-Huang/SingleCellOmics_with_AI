@@ -85,6 +85,7 @@ git clone https://github.com/Zhihao-Huang/SingleCellOmics_with_AI.git
 ## Expected Outputs
 * **`result/Seurat_obj.rds`**: The main document containing the results of `01.run_Seurat.R`.
 * **`result/base_obj.rds`**: The main document containing the results of `01.run_clustering.R`.
+* **`result/*.png`**:
 ![Figures](https://github.com/Zhihao-Huang/SingleCellOmics_with_AI/blob/main/data/result.png)
 
 
