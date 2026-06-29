@@ -13,4 +13,4 @@ p <- DimPlot(obj, label = T)
 
 print(p)
 
-saveRDS('./reports/Seurat_obj.rds')
+saveRDS(obj, file = './reports/Seurat_obj.rds')

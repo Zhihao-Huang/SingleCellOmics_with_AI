@@ -38,4 +38,3 @@ library(ggplot2)
 ggplot(plotdata, aes(UMAP_1, UMAP_2, color = cluster)) + geom_point()
 
 
-
