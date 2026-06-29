@@ -40,6 +40,9 @@ remotes::install_github("IMNMV/ClaudeR")
 ```
 
 ### Download & Configure Claude Code
+
+Refer to [deepseek agent guide](https://github.com/deepseek-ai/awesome-deepseek-agent/blob/main/docs/claude_code.zh-CN.md)
+
 Follow these steps to set up the global command-line AI assistant:
 
 ```bash
@@ -89,7 +92,7 @@ git clone https://github.com/Zhihao-Huang/SingleCellOmics_with_AI.git
 * **`Academic Pipeline`**
 
 ## Lecture Details & Updates
-Details of this lecture will also be available on the WeChat Official Account: [**`单细胞组学`**]
+Details of this lecture will also be available on the WeChat Official Account: **`单细胞组学`**
 
 ![WeChat Official Account QR Code](https://github.com/Zhihao-Huang/SingleCellOmics_with_AI/blob/main/data/Wechat_official_account.jpg)
 
