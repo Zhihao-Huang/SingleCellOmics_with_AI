@@ -1,5 +1,5 @@
 library(Seurat)
-data <- readRDS('./data/filtered_gene_bc_matrices/')
+data <- Read10X('./data/filtered_gene_bc_matrices/')
 obj <- CreateSeuratObject(data)
 obj <- NormalizeData(obj)
 obj <- FindVariableFeatures(obj)

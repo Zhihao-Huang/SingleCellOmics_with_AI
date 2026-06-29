@@ -58,6 +58,8 @@ brew install git
 npm install -g @anthropic-ai/claude-code
 
 # Edit settings.json to avoid regional restrictions
+vi ~/.claude/settings.json
+
 {
   "env": {
     "ANTHROPIC_BASE_URL": "https://api.deepseek.com/anthropic",
