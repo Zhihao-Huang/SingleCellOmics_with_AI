@@ -1,10 +1,11 @@
 # AI-Powered Introductory Single-Cell Analysis (Seminar 2)
 
-This repository contains the R code, data, and documentation for analyzing single-cell RNA-seq data using automated AI agents for AI & Bioinformatics Seminar 2.
-
 Date: 2026.06.29
 
 This is a simple guideline for learners who attend the AI & Bioinformatics lectures for non-commercial purposes.
+
+This repository contains the R code, data, and documentation for analyzing single-cell RNA-seq data using automated AI agents for AI & Bioinformatics Seminar 2.
+
 
 ## Key Features
 * **Automated Data Cleaning:** Scripts to clean and preprocess raw data files using base functions in R.
@@ -87,7 +88,11 @@ git clone https://github.com/Zhihao-Huang/SingleCellOmics_with_AI.git
 * **`Academic paper reviewer`**
 * **`Academic Pipeline`**
 
-## The details of this lecture will be also available on WeChat Official Account: * **`单细胞组学`**
+## Lecture Details & Updates
+Details of this lecture will also be available on the WeChat Official Account: [**`单细胞组学`**]
+
+![WeChat Official Account QR Code](https://github.com/Zhihao-Huang/data/Wechat_official_account.jpg)
+
 
 ## 📝 Author
 * **Huang Zhihao** - *Initial work* - [https://github.com/Zhihao-Huang](https://github.com/Zhihao-Huang)
