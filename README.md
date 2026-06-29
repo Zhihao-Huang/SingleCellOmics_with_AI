@@ -1,7 +1,7 @@
 # AI-Powered Introductory Single-Cell Analysis (Seminar 2)
 
 <!-- Add a brief, 1-2 sentence summary explaining what this repository or R project does. -->
-This is one of the AI & Bioinformatics lectures for beginners
+This is a simple guideline for learners who attend the AI & Bioinformatics lectures for non-commercial purposes.
 
 This repository contains the R code, data, and documentation for analyzing single-cell RNA-seq data in AI & Bioinformatics Seminar 2. The primary purpose is to automate the processing of single-cell RNA-seq data from cellranger and generate reproducible results using AI agent.
 
