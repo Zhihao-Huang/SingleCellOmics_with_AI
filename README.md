@@ -91,7 +91,7 @@ git clone https://github.com/Zhihao-Huang/SingleCellOmics_with_AI.git
 ## Lecture Details & Updates
 Details of this lecture will also be available on the WeChat Official Account: [**`单细胞组学`**]
 
-![WeChat Official Account QR Code](https://github.com/Zhihao-Huang/data/Wechat_official_account.jpg)
+![WeChat Official Account QR Code](https://github.com/Zhihao-Huang/SingleCellOmics_with_AI/blob/main/data/Wechat_official_account.jpg)
 
 
 ## 📝 Author
