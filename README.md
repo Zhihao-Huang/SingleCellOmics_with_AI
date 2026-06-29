@@ -85,6 +85,8 @@ git clone https://github.com/Zhihao-Huang/SingleCellOmics_with_AI.git
 ## Expected Outputs
 * **`result/Seurat_obj.rds`**: The main document containing the results of `01.run_Seurat.R`.
 * **`result/base_obj.rds`**: The main document containing the results of `01.run_clustering.R`.
+![Figures](https://github.com/Zhihao-Huang/SingleCellOmics_with_AI/blob/main/data/result.png)
+
 
 ## In the next lecture we will learn how to use academic-research-skills in Claude Code
 `academic-research-skills` is a comprehensive suite of Claude Code skills for academic research, covering the full pipeline from research to publication.
