@@ -48,17 +48,27 @@ Follow these steps to set up the global command-line AI assistant:
 ```bash
 ## Dependencies
 # macOS
+brew --version
+# if brew cannot be found:
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+# install node and git:
 brew install node
 brew install git
 
 # Windows
-# Install Node.js and Git using your preferred package manager or installer
+# Install Node.js and Git from
+https://git-scm.com/install/windows
+https://nodejs.org/en/download/
 
 # Download Claude Code
 npm install -g @anthropic-ai/claude-code
 
 # Edit settings.json to avoid regional restrictions
+# macOS:
 vi ~/.claude/settings.json
+# window CMD:
+mkdir %USERPROFILE%\.claude
+notepad %USERPROFILE%\.claude\settings.json
 
 {
   "env": {
