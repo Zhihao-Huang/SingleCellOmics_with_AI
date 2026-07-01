@@ -29,7 +29,6 @@ resultlist <- list(
   clusters = clusters,
   umap = umap_coords 
 )
-system('mkdir ./reports/')
 saveRDS(resultlist, file = './reports/base_obj.rds')
 
 plotdata <- resultlist$umap
